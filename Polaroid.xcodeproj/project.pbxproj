@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		641CD211278AC45900CDF5D2 /* PrintImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641CD210278AC45900CDF5D2 /* PrintImageViewController.swift */; };
 		643CC69D2789B9AF0078EEB3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 643CC69C2789B9AF0078EEB3 /* AppDelegate.swift */; };
 		643CC69F2789B9AF0078EEB3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 643CC69E2789B9AF0078EEB3 /* SceneDelegate.swift */; };
 		643CC6A12789B9AF0078EEB3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 643CC6A02789B9AF0078EEB3 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		641CD210278AC45900CDF5D2 /* PrintImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintImageViewController.swift; sourceTree = "<group>"; };
 		643CC6992789B9AF0078EEB3 /* Polaroid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Polaroid.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		643CC69C2789B9AF0078EEB3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		643CC69E2789B9AF0078EEB3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				643CC69C2789B9AF0078EEB3 /* AppDelegate.swift */,
 				643CC69E2789B9AF0078EEB3 /* SceneDelegate.swift */,
 				643CC6A02789B9AF0078EEB3 /* ViewController.swift */,
+				641CD210278AC45900CDF5D2 /* PrintImageViewController.swift */,
 				643CC6A22789B9AF0078EEB3 /* Main.storyboard */,
 				643CC6A52789B9AF0078EEB3 /* Assets.xcassets */,
 				643CC6A72789B9AF0078EEB3 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				641CD211278AC45900CDF5D2 /* PrintImageViewController.swift in Sources */,
 				643CC6A12789B9AF0078EEB3 /* ViewController.swift in Sources */,
 				643CC69D2789B9AF0078EEB3 /* AppDelegate.swift in Sources */,
 				643CC69F2789B9AF0078EEB3 /* SceneDelegate.swift in Sources */,
